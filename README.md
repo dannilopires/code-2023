@@ -1,1 +1,1 @@
-Repositório para projetos desenvolvido em Junho de 2023
+Repositório para projeto desenvolvido em Junho de 2023
